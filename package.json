@@ -1,0 +1,29 @@
+{
+  "name": "graphql-express",
+  "version": "1.0.0",
+  "description": "Aplicação para demonstração de uso do GraphQL com Express para disciplina de Arquitetura de Software - UNISINOS 2020/1.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernPascoal/graphql-express.git"
+  },
+  "keywords": [
+    "express",
+    "graphql",
+    "nodejs"
+  ],
+  "author": "Fernando Pascoal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernPascoal/graphql-express/issues"
+  },
+  "homepage": "https://github.com/FernPascoal/graphql-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0"
+  }
+}
